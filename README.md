@@ -1,7 +1,7 @@
 ## About me
 Passionate software engineer always looking for better ways to solve the most interesting problems
 
-- 📫 How to reach me: oleg3790@hotmail.com
+- 📫 How to reach me: oleg.krysko@outlook.com
 
 ## My tech stack
 <div style="display:inline-block;">
