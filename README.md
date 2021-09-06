@@ -1,16 +1,22 @@
-### Hi there 👋
+## About me
+Passionate software engineer always looking for better ways to solve the most interesting problems
 
-<!--
-**oleg3790/oleg3790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: oleg3790@hotmail.com
 
-Here are some ideas to get you started:
+## My tech stack
+<div style="display:inline-block;">
+<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML 5" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS 3" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="Javascript" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="dotNET Core" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle RDMS" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgres DB" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="Docker" width="70" height="70"/>
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
